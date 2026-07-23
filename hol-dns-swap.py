@@ -7,7 +7,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- CONFIGURATION ---
 DNS_SERVER_URL = "https://dns.vcf.lab:443"
-API_TOKEN = "c5938ee0b875d622280583810a65294df02fc56cb92353916ad638b342fc95d4"
+# Create an API token in your Technitium instance and put it here
+API_TOKEN = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 DNS_ZONE = "vcf.lab"
 
